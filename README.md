@@ -11,15 +11,15 @@
 #### Instructions:
 - ##### keynote:
 
-- the pacman:space-invader: looks like a "v" if facing up, ">" if facing left and so on.
-  - a dot looks like "o"
+- the pacman:space_invader: looks like a "v" if facing up, ">" if facing left and so on.
+  - a food;apple: :apple: apple: looks like "o"
   - a ghost:ghost: :ghost: :ghost: looks like: "m"
  -  ##### Specifics:  
-     - The level is completed when all the dots are collected.
+     - The level is completed when all the food are collected.
     - Avoid the ghosts
 
 - #### About game:
-   In the game, there are boulders:department_store: which usual corresponds to the level. Foor instance, level one has a single boulder, level two
+   In the game, there are boulders:department_store: which usual corresponds to the level. For instance, level one has a single boulder, level two
  has 2 and so on. The pacman cannot go through boulders but can go through thw wall of the screen and come out from the adjacent wall.
  The reverse is the case for the ghosts. The game automatically changes level when the current level is completed. The score is displayed i the lower
  left corner of screen
