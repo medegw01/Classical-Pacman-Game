@@ -38,5 +38,5 @@ type:
 #### Play:
 Follow the instruc5tions on the screen.
 ### Video Demo:
-Please click on picture:smile:
+Please click on picture:smile:<br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2_fUEtnxpiQ/0.jpg)](https://www.youtube.com/watch?v=2_fUEtnxpiQ&feature=youtu.be)
