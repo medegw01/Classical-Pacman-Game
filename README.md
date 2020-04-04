@@ -1,4 +1,4 @@
-# :video_game:Classical-Pacman-game:video_game:
+# :video_game:PacMan:video_game:
 #### Controls:
  |Functionality | keyboard key |
 | ------------ | ------------ |
